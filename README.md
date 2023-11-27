@@ -1,5 +1,5 @@
-# 👋🏾 Bonjour! Vince here. 
-# I'm a:
+# 👋🏾 Bonjour le monde🌍! Vince here. 
+ **I'm a:**
 + ### 💻 Fullstack Web Developer 
 + ### 🤖 Computer Engineering Student
 + ### 🌟 Graphic Designer
