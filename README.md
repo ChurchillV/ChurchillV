@@ -18,7 +18,7 @@
  
 <h3 align="left">Backend Development</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,supabase,firebase,laravel" />
+    <img src="https://skillicons.dev/icons?i=spring,nodejs,nestjs,express,supabase,firebase,laravel" />
  </a>
  <h3 align="left">Tools</h3>
  <a href="https://skillicons.dev">
